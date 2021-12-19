@@ -1,2 +1,4 @@
 Inicio tarefa-1
+Comando a
+Comando b
 Final tarefa-1
